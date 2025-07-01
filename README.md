@@ -30,8 +30,6 @@ This project leverages some powerful Python libraries:
 
 * **`re` (Regular Expressions):** For pattern matching, particularly useful in extracting card codes and names from text.
 
-## 🏃‍♀️ Getting Started (How to Run It)
 
-To run this scraper yourself:
 
-1. **Clone this repository:**
+
