@@ -1,4 +1,4 @@
-# 🃏 Dragon Ball Super Card Game Data Extractor
+# 🃏 Dragon Ball Card Data Extractor
 
 This project is a personal endeavor born out of a genuine need as a trading card game player, Like many hobbies, getting specific data can sometimes be a manual chore. I wanted to automate the process of collecting card information each time a new set is released, particularly filtering by rarity, directly from the official card list website. This app is my solution to that very specific, yet incredibly useful, problem.
 
